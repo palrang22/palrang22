@@ -8,10 +8,14 @@
 </p>
 
 
-  <h3 align="center"> ✨ My Blog </h3>
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=palrang22)](https://velog.io/@palrang22)
-
+<div style="text-align: center;">
+    <h3>✨ My Blog ✨</h3>
+    <p>
+        <a href="https://velog.io/@palrang22">
+            <img src="https://velog-readme-stats.vercel.app/api/badge?name=palrang22" alt="Velog's GitHub stats">
+        </a>
+    </p>
+</div>
 
 
 <!--
