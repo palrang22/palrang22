@@ -12,6 +12,9 @@
     </a>
 </div>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=merrymerrys2)](https://solved.ac/merrymerrys2)
+
 <!--
 **palrang22/palrang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
