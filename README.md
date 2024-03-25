@@ -6,14 +6,19 @@
 </div>
 
 <div align="center">
-    <h3>✨ My Blog ✨</h3>
+    <h3>✨ Studying ✨</h3>
     <a href="https://velog.io/@palrang22">
         <img src="https://velog-readme-stats.vercel.app/api/badge?name=palrang22" alt="Velog's GitHub stats" />
     </a>
+    <br>
+    <a href="https://solved.ac/merrymerrys2">
+        <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=merrymerrys2" alt="Solved.ac프로필" />
+    </a>
 </div>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=merrymerrys2)](https://solved.ac/merrymerrys2)
+
+
+
 
 <!--
 **palrang22/palrang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
