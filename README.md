@@ -1,6 +1,6 @@
 
 
-<div align="center">
+<div align="left">
     <a href="https://git.io/typing-svg">
         <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1500&color=F7D71C&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+Palrang's+Github!" alt="Typing SVG" />
     </a>
@@ -8,52 +8,34 @@
 
 <br><br>
 
-<div align="center">
-    <h3> Most Used Languages </h3>
-    <a href="https://github.com/palrang22">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=palrang22&layout=compact&show_icons=true&show_owner=true&hide_title=false&theme=nord&hide=" alt="Most Used Languages" />
-    </a>
-</div>
-
-<br><br>
-
-<div align="center">
-    <h3> About Me </h3>
+<div align="left">
+    <h2> About Me </h2>
+    <p>
+        좋은 설계에 대해 고민하는 iOS 개발자, 김승희 입니다.
+    </p>
     <a href="https://velog.io/@palrang22">
-        <img src="https://velog-readme-stats.vercel.app/api/badge?name=palrang22" alt="Velog's GitHub stats" />
+  <img src="https://img.shields.io/badge/Velog-palrang22-20C997?style=flat&logo=velog&logoColor=white" />
     </a>
     <a href="https://solved.ac/merrymerrys2">
         <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=merrymerrys2" alt="Solved.ac프로필" />
     </a>
 </div>
 
+
 <br><br>
 
-<div align="center">
-    <h3> Studying </h3>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MYSQL" />
-    <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-</div>
+## 최신 포스트
+<img src="https://cdn.simpleicons.org/velog/20C997" width="16" /> [[Swift] Static: 타입에 속한다는 것의 의미](https://velog.io/@palrang22/Static)<br>
+- 객체의 책임, 타입의 책임<br>
 
+<img src="https://cdn.simpleicons.org/velog/20C997" width="16" /> [[Swift] AnyObject](https://velog.io/@palrang22/AnyObject)<br>
+- 참조 타입 제약이 필요한 이유와 프로토콜 설계 맥락<br>
 
+<img src="https://cdn.simpleicons.org/velog/20C997" width="16" /> [[Swift] Alamofire를 사용하는 이유 (URLSession과 비교)](https://velog.io/@palrang22/Swift-NetworkManager-파헤치기)<br>
+- URLSession 한계와 Alamofire가 해결해주는 지점 정리<br>
 
+<img src="https://cdn.simpleicons.org/velog/20C997" width="16" /> [[UIKit] 런타임 레이아웃 제약조건 변경 및 UIView.animate 정리](https://velog.io/@palrang22/UIKit-런타임-레이아웃-제약조건-변경-및-UIView.animate-정리)<br>
+- Auto Layout 제약 변경 시점과 애니메이션 처리 흐름 정리<br>
 
-
-<!--
-**palrang22/palrang22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://cdn.simpleicons.org/velog/20C997" width="16" /> [[우아콘] 25.10.28 우아콘 후기](https://velog.io/@palrang22/우아콘-후기)<br>
+- 현업 개발자 세션에서 얻은 설계·협업 관점 정리<br>
